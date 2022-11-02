@@ -56,9 +56,6 @@ namespace RestaurantApp.Business.Concreate
                     userRefreshToken.Expiration = token.RefreshTokebExpiration;
                 }
                 await _unitOfWork.CommitAsync();
-                var cacheTokenSerialize = JsonSerializer.Serialize(userRefreshToken.RefreshToken);
-                var refreshTokenForCache = Encoding.UTF8.GetBytes(cacheTokenSerialize);
-                var options = new DistributedCacheEntryOptions().SetAbsoluteExpiration(userRefreshToken.Expiration);
                 return new ResponseModel<TokenDto>() { Data = token };
             }
         }

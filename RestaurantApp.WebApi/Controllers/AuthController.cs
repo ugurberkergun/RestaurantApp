@@ -20,12 +20,6 @@ namespace RestaurantApp.WebApi.Controllers
         public async Task<IActionResult> Login(LoginDto loginDto)
         {
             return ActionResultInstance(await _authService.CreateToken(loginDto));
-            //var result = await _authService.CreateToken(loginDto);
-            //if (result.HasError)
-            //{
-            //    return BadRequest(result);
-            //}
-            //return Ok(result.Data);
         }
         [Authorize("Admin")]
         [HttpPost]
