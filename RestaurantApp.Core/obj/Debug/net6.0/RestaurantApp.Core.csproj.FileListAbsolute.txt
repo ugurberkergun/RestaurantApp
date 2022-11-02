@@ -1,0 +1,12 @@
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\bin\Debug\net6.0\RestaurantApp.Core.deps.json
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\bin\Debug\net6.0\RestaurantApp.Core.dll
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\bin\Debug\net6.0\RestaurantApp.Core.pdb
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\obj\Debug\net6.0\RestaurantApp.Core.csproj.AssemblyReference.cache
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\obj\Debug\net6.0\RestaurantApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\obj\Debug\net6.0\RestaurantApp.Core.AssemblyInfoInputs.cache
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\obj\Debug\net6.0\RestaurantApp.Core.AssemblyInfo.cs
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\obj\Debug\net6.0\RestaurantApp.Core.csproj.CoreCompileInputs.cache
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\obj\Debug\net6.0\RestaurantApp.Core.dll
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\obj\Debug\net6.0\refint\RestaurantApp.Core.dll
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\obj\Debug\net6.0\RestaurantApp.Core.pdb
+D:\BackendTraining\RestaurantApp\RestaurantApp.Core\obj\Debug\net6.0\ref\RestaurantApp.Core.dll

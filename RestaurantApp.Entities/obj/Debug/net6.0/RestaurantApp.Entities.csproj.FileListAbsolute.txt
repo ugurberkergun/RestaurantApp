@@ -1,0 +1,15 @@
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\bin\Debug\net6.0\RestaurantApp.Entities.deps.json
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\bin\Debug\net6.0\RestaurantApp.Entities.dll
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\bin\Debug\net6.0\RestaurantApp.Entities.pdb
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\bin\Debug\net6.0\RestaurantApp.Core.dll
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\bin\Debug\net6.0\RestaurantApp.Core.pdb
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\obj\Debug\net6.0\RestaurantApp.Entities.csproj.AssemblyReference.cache
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\obj\Debug\net6.0\RestaurantApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\obj\Debug\net6.0\RestaurantApp.Entities.AssemblyInfoInputs.cache
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\obj\Debug\net6.0\RestaurantApp.Entities.AssemblyInfo.cs
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\obj\Debug\net6.0\RestaurantApp.Entities.csproj.CoreCompileInputs.cache
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\obj\Debug\net6.0\RestaurantApp.Entities.csproj.CopyComplete
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\obj\Debug\net6.0\RestaurantApp.Entities.dll
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\obj\Debug\net6.0\refint\RestaurantApp.Entities.dll
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\obj\Debug\net6.0\RestaurantApp.Entities.pdb
+D:\BackendTraining\RestaurantApp\RestaurantApp.Entities\obj\Debug\net6.0\ref\RestaurantApp.Entities.dll
